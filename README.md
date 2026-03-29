@@ -1,19 +1,23 @@
-## Student-Managment-System-C
-##A simple student managment system project in c language
+🎓 Student Management System (C Project)
+📖 Description
 
-Student-Management-System/
-│── main.c              # Main source code
-│── student.txt         # Data file storing student records
-│── README.md           # Project documentation
+##A simple Student Management System built in C language.
+It allows adding, showing, and deleting student records.
 
-▶️ How to Compile & Run
+✨ Features
+- Add new student records
+- Show all student records
+- Delete student records
+
+##How to Run and Compile
 gcc main.c -o student
 ./student
 
-
-
-👨‍💻 Author
+##Author
 Rohit Dhaka
+
+
+
 
 
 
